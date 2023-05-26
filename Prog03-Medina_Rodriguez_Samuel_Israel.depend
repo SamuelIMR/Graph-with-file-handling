@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1666801407 source:c:\users\samme\onedrive\escritorio\ed2\prog03-medina_rodriguez_samuel_israel\main.cpp
+	<iostream>
+	"Grafo.h"
+	"Futbol.h"
+	"Nodo.h"
+
+1666396963 source:c:\users\samme\onedrive\escritorio\ed2\prog03-medina_rodriguez_samuel_israel\src\futbol.cpp
+	"Futbol.h"
+
+1666377368 c:\users\samme\onedrive\escritorio\ed2\prog03-medina_rodriguez_samuel_israel\include\futbol.h
+	<iostream>
+
+1666801785 source:c:\users\samme\onedrive\escritorio\ed2\prog03-medina_rodriguez_samuel_israel\src\nodo.cpp
+	"Nodo.h"
+
+1666548911 c:\users\samme\onedrive\escritorio\ed2\prog03-medina_rodriguez_samuel_israel\include\nodo.h
+	"Futbol.h"
+	<iostream>
+
+1666885466 source:c:\users\samme\onedrive\escritorio\ed2\prog03-medina_rodriguez_samuel_israel\src\grafo.cpp
+	"Grafo.h"
+
+1666884686 c:\users\samme\onedrive\escritorio\ed2\prog03-medina_rodriguez_samuel_israel\include\grafo.h
+	"Nodo.h"
+	"Futbol.h"
+	<iostream>
+	<fstream>
+
